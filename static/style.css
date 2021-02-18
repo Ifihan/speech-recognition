@@ -1,0 +1,12 @@
+body{
+    background-color: #1B56D0;
+}
+
+h1, p, input {
+    font-family: 'Roboto', sans-serif;
+}
+
+#speechContainer{
+    border: 2px solid black;
+    padding: 20px;
+}
